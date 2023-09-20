@@ -2,7 +2,7 @@
 
 의료진단기록을 학습한 자연어 처리 모델과 의료이미지 내 질병 탐지모델을 이용한 의료 자동화 진단
 
-Implementation of a medical automation diagnosis systemusing a natural language processing model that learns medical diagnosis records and a disease detection model in a medical image
+Implementation of a medical automation diagnosis system using a natural language processing model that learns medical diagnosis records and a disease detection model in a medical image
 
 
 ![슬라이드0001](https://github.com/junhochoi-dev/AIMD/assets/39554558/50f5361a-eb48-4fee-9665-ccd821292480)
