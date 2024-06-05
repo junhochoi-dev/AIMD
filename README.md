@@ -17,4 +17,6 @@ Implementation of a medical automation diagnosis system using a natural language
 
 ![슬라이드0006](https://github.com/junhochoi-dev/AIMD/assets/39554558/ea2459af-6cb3-4149-90b5-34d344f9280b)
 
+![슬라이드0008](https://github.com/junhochoi-dev/AIMD/assets/39554558/9f8a878c-6302-489b-89d6-223d07435ddb)
+
 ![슬라이드0007](https://github.com/junhochoi-dev/AIMD/assets/39554558/909da245-888c-43bf-a984-f73e9b06af02)
